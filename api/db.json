@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Bhavani",
+      "city": "Telangana",
+      "occupation": "SE"
+    },
+    {
+      "id": 2,
+      "name": "Harish",
+      "city": "Banglore",
+      "occupation": "bank employe"
+    },
+    {
+      "name": "Laxmi",
+      "city": "Hyderabad",
+      "occupation": "tester",
+      "id": 3
+    },
+    {
+      "name": "Sandhya",
+      "city": "Karnataka",
+      "occupation": "SE",
+      "id": 4
+    }
+  ]
+}
